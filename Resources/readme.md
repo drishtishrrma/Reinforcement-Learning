@@ -14,4 +14,6 @@ https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html#parameters
 https://docs.wandb.ai/guides/integrations/other/stable-baselines-3
 
 
+Invest more time in reading docs from gym and Stable Baselines, understanding a bit better the environments, impact of hyperparameters, and understanding the output
+ 
 Unit 2:
