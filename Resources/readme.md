@@ -8,4 +8,10 @@ Unit 1:
 Extra Resources:
 https://stable-baselines.readthedocs.io/en/master/guide/vec_envs.html
 
+
+https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html#parameters
+
+https://docs.wandb.ai/guides/integrations/other/stable-baselines-3
+
+
 Unit 2:
