@@ -185,3 +185,13 @@ TENSORBOARD INTEGRATION:
 
 %load_ext tensorboard
 %tensorboard --logdir $tensorboard_log
+
+
+
+--------------------
+Cool ideas:
+- Use Optuna for hyperparameter tuning
+- Use TensorBoard and push the logs to the Hub
+- Use Weights and Biased to do the experiment tracking
+- Use a callback instead to push your model to the Hub
+- A theory check of different concepts
