@@ -8,6 +8,7 @@ Unit 1:
 Extra Resources:
 
 https://blog.paperspace.com/getting-started-with-openai-gym/ (very nice blog)
+
 https://stable-baselines.readthedocs.io/en/master/guide/vec_envs.html
 
 
