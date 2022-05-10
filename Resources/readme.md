@@ -6,6 +6,8 @@ Unit 1:
 3️⃣ The leaderboard 👉 https://huggingface.co/spaces/ThomasSimonini/Lunar-Lander-Leaderboard
 
 Extra Resources:
+
+https://blog.paperspace.com/getting-started-with-openai-gym/ (very nice blog)
 https://stable-baselines.readthedocs.io/en/master/guide/vec_envs.html
 
 
