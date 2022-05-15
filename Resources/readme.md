@@ -25,7 +25,11 @@ https://spinningup.openai.com/en/latest/
 Invest more time in reading docs from gym and Stable Baselines, understanding a bit better the environments, impact of hyperparameters, and understanding the output
 
 PPO:
-BEST PRACTICES: https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/best-practices-ppo.md
+BEST PRACTICES: 
+https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+
+https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/best-practices-ppo.md
+
 https://medium.com/aureliantactics/understanding-ppo-plots-in-tensorboard-cbc3199b9ba2 
 
 Unit 2:
