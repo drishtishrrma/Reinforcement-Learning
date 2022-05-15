@@ -6,6 +6,9 @@ Unit 1:
 3️⃣ The leaderboard 👉 https://huggingface.co/spaces/ThomasSimonini/Lunar-Lander-Leaderboard
 
 Additional  Resources:
+
+https://christianjmills.com/Notes-on-HF-Deep-Reinforcement-Learning-Class-1/ 
+
 https://simoninithomas.github.io/deep-rl-course/
 
 https://blog.paperspace.com/getting-started-with-openai-gym/ (very nice blog)
